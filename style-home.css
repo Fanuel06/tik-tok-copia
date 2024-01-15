@@ -1,0 +1,29 @@
+body {
+    margin: auto auto;
+    padding: 2px 2px 2px 2px;
+    background-color: gainsboro;
+}
+    
+#barra-lateral {
+    display: inline-block;
+    padding-bottom: 100% auto;
+}
+
+#logo {
+    margin: 10px 10px 10px 10px;
+    height: 100px;
+}
+
+.barra {
+    display: block;
+    padding: 10px auto;
+    margin-top: 35px;
+    margin-left: 17px;
+    margin-bottom: auto;
+    border-radius: 50%;
+}
+
+main {
+    border: 500px;
+    display: inline-block;
+}
